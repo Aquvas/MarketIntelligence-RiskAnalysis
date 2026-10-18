@@ -2,3 +2,4 @@ ipykernel
 pandas
 numpy
 scikit-learn
+yfinance

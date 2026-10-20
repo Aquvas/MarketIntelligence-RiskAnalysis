@@ -1,0 +1,5 @@
+ticker,mean_return,median_return,std_return,minimum_return,maximum_return
+AMD,0.195,0.039,3.625,-17.314,23.82
+INTC,0.114,-0.022,3.497,-26.059,23.6
+NVDA,0.238,0.262,3.272,-16.968,24.37
+TSM,0.141,0.02,2.424,-13.327,12.294
